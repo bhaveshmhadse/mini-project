@@ -1,6 +1,5 @@
 from required_modules import *
 
-
 from vf import vaccinationf
 from vd import vaccinationd
 from dash import dashb
